@@ -34,7 +34,7 @@ Repeat these steps for `perimeter()`
     - `radius`
 - define a method named `area()` to return the area of the circle
     - formula: area = `Math.PI * r ** 2`
-    - hint: look up [the JavaScript Math object docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math) to find out how to round a number to 1 decimal place (MDN calls this a 'single precision float')
+    - hint: search "how to round a number to 1 decimal place" on google to find out how to generate the output as required
 - instantiate the following circles one by one and verify that `area()` returns the expected values as stated below
 
 | radius | area() | perimeter() |
